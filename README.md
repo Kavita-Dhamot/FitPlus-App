@@ -20,7 +20,7 @@ This data is stored using SQLite. It motivates the user to keep going, not missi
 
 5) **Age-Calculator->** This is a section where the users can come and calculate their age in minutes. This section is just to take a moment from your monotonous schedule and have a pleasant mood.
 
-6) **Unscramble->** This is a game section consisting of jumbled words and the user has the task to unscramble it and write a meaningful word that can be made from the given set of words. There are ten jumbled words, which are related to health, body, and fitness. Each correct answer is awarded 20 points, hence the game is 200 points in total.
+6) **Step COunter->** Using this you can calculate the number of steps taken by the person using a sensor. It will help the user to analyze the number of steps and hence the amount of calories that were burnt during the process. It is a fun and usefull thing to play along and use.
 
 **As told by the organizers, we were asked to implement authentication of the Login and SignUp using SAWO LABS. We are making this project in android using Kotlin as the programming language and hence we faced a lot of difficulties while going about the authentication. Given below are the screenshots of the errors we faced and hence we could not work with SAWO LABS even after trying multiple times.**
 
