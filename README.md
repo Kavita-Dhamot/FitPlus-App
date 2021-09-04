@@ -1,5 +1,5 @@
 # fit-plus
-```FitPlus: Android app for healthy life.```
+FitPlus: Android app for healthy life.
 Fit-Plus is an app that will help and encourage a healthy lifestyle. The basic theme of our app is 
 to facilitate fitness and provides various exercises which bring together a good workout session.
 
