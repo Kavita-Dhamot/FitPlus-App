@@ -9,7 +9,7 @@ Many people need to modify their lifestyle and start adapting to a healthier one
 Our app has 12 workout exercises which is a 7-minute schedule that is your workout would be done in 7 minutes. It is effective and efficient.
 Fit-Plus welcomes you to a dashboard page that has various components.
 
-1) The workout section-> As mentioned earlier it provides workout exercises and is timed. It enhances your workout experience.
+1)The workout section-> As mentioned earlier it provides workout exercises and is timed. It enhances your workout experience.
 
 2)History-> This maintains a record of the workout/exercise sessions you had. It stores the date and time of the day when you completed your whole schedule.
 This data is stored using SQLite. It motivates the user to keep going, not missing any day and keeping up the motivation.
