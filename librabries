@@ -1,6 +1,6 @@
 The different libraries which were used and their short descriptions.
 
-1.==implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.3.1'==
+1.implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.3.1'
 implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1'
 Lifecycle-aware components perform actions in response to a change in the lifecycle status of another component, such as activities and fragments. These components help you produce better-organized, and often lighter-weight code, that is easier to maintain.
 Android KTX is a set of Kotlin extensions that are included with Android Jetpack and other Android libraries. KTX extensions provide concise, idiomatic Kotlin to Jetpack, Android platform, and other APIs. To do so, these extensions leverage several Kotlin language features, including the following:
