@@ -28,34 +28,3 @@ As told by the organizers, we were asked to implement authentication of the Logi
 ![image](https://user-images.githubusercontent.com/76651032/132108140-02de4951-911d-4613-99d9-88a4bea64abf.png)
 
 THANK YOU!
-
-
-The different libraries which were used and their short descriptions.
-
-!)implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.3.1'
-    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1'
-    
-    Lifecycle-aware components perform actions in response to a change in the lifecycle status of another component, such as activities and fragments. These components help you produce better-organized, and often lighter-weight code, that is easier to maintain.
-    Android KTX is a set of Kotlin extensions that are included with Android Jetpack and other Android libraries. KTX extensions provide concise, idiomatic Kotlin to Jetpack, Android platform, and other APIs. To do so, these extensions leverage several Kotlin language features, including the following:
-
-Extension functions
-Extension properties
-Lambdas
-Named parameters
-Parameter default values
-Coroutines
-
-2)implementation 'com.airbnb.android:lottie:3.6.0'
-Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
-
-3)implementation 'com.github.sawolabs:Android-SDK:0.1.5'
-
-4)implementation "androidx.cardview:cardview:1.0.0"
-Card View is a FrameLayout with a rounded corner background and shadow. This dependency helps us impliment card view.ded
-
-5) implementation group: 'com.airbnb.android', name: 'lottie', version: '3.7.0'
-Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
-
-
-
-
