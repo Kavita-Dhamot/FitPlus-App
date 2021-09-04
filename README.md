@@ -5,8 +5,7 @@ to facilitate fitness and provides various exercises which bring together a good
 
 **It will provide you information about the meals that you would be consuming throughout the day and we can further enhance this app which would help planning our diet. 
 Many people need to modify their lifestyle and start adapting to a healthier one. This app will surely motivate them and help them in their journey towards fitness.
-
-**Our app has 12 workout exercises which is a 7-minute schedule that is your workout would be done in 7 minutes. It is effective and efficient.
+Our app has 12 workout exercises which is a 7-minute schedule that is your workout would be done in 7 minutes. It is effective and efficient.
 Fit-Plus welcomes you to a dashboard page that has various components.**
 
 **1)The workout section->** As mentioned earlier it provides workout exercises and is timed. It enhances your workout experience.
