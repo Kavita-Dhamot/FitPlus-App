@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="#F8F8F8"
+    tools:context=".DinnerActivity">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        app:lottie_rawRes="@raw/gif1"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_speed="1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="20dp"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:text="Eat dinner at about four to five hours after lunch. If your dinner time fall in between the 5 p.m. to 6 p.m. timeframe, you are going to be reaching the last hour of your bodyâ€™s heightened metabolic rate." />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="20dp"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:text="Add pulses, lentils, green leafy veggie, and curry leaves to your evening meal. It is good to consume more of protein and less of carbs at night to keep your digestive system working well"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="20dp"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:text="Some tips for Dinner - Replace curd with buttermilk, Include more protein-rich foods at night, Say no to sugar and yes to honey."/>
+
+</LinearLayout>

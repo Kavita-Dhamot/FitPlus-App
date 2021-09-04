@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8F8"
+    android:orientation="vertical"
+    tools:context=".BreakfastActivity">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        app:lottie_rawRes="@raw/animation2"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_speed="1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="20dp"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:text="The best time to have breakfast is within two hours after waking up.The sooner you eat breakfast after you wake up, the better it is for your metabolism. " />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="20dp"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:text="Breakfast foods are rich in key nutrients such as folate, calcium, iron, B vitamins and fibre. Breakfast provides a lot of your day's total nutrient intake."/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="20dp"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:text="So, what to eat for Breakfast ???The answer is basic healthy eating advice: fruits and vegetables, whole (unprocessed) grains, and healthy proteins and fats."/>
+
+</LinearLayout>
