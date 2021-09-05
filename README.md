@@ -1,4 +1,4 @@
-# fit-plus
+# Fit-Plus
 FitPlus: Android app for healthy life.
 Fit Plus is an app that will help and encourage a healthy lifestyle. The basic theme of our app is 
 to facilitate fitness and provides various exercises which bring together a good workout session. 
@@ -25,6 +25,7 @@ This data is stored using SQLite. It motivates the user to keep going, not missi
 **As told by the organizers, we were asked to implement authentication of the Login and SignUp using SAWO LABS. We are making this project in android using Kotlin as the programming language and hence we faced a lot of difficulties while going about the authentication. Given below are the screenshots of the errors we faced and hence we could not work with SAWO LABS even after trying multiple times.**
 
 ![image](https://user-images.githubusercontent.com/76651032/132107996-1379600c-fa1a-43c7-827b-09336bb575dc.png)
+
 ![image](https://user-images.githubusercontent.com/76651032/132108140-02de4951-911d-4613-99d9-88a4bea64abf.png)
 
 THANK YOU!
