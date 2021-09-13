@@ -20,7 +20,7 @@ class StepCounter : AppCompatActivity(), SensorEventListener{
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_step_counter)
         sensorManager = getSystemService(Context.SENSOR_SERVICE) as SensorManager
     }
 
